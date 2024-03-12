@@ -18,20 +18,20 @@ recommendations, so they must be backed up with compelling data insights and pro
 ## 1. Ask
  ### Three questions will guide the future marketing program:
 
-1.1. How do annual members and casual riders use Cyclistic bikes differently?
-1.2. Why would casual riders buy Cyclistic annual memberships?
-1.3. How can Cyclistic use digital media to influence casual riders to become members?
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
 
 ## 2. Prepare
 
-2.1. Downloading and integrating different datasets;
-2.2. Transforming and cleaning the data;
-2.3. Selection of relevant variables
+1. Downloading and integrating different datasets;
+2. Transforming and cleaning the data;
+3. Selection of relevant variables
 
 ## 3. Process
 
-3.1. Descritive analysis
-3.2. Exploratory Data Analysis (EDA)
+1. Descritive analysis
+2. Exploratory Data Analysis (EDA)
 
 ## 4. Analyze
 
