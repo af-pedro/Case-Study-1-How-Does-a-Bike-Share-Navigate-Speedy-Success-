@@ -44,7 +44,6 @@ recommendations, so they must be backed up with compelling data insights and pro
   -  Act
 
 ## 1. Ask
- ### Three questions will guide the future marketing program:
 
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
@@ -63,8 +62,12 @@ recommendations, so they must be backed up with compelling data insights and pro
 
 ## 4. Analyze
 
+
+
+
 ## 5. Share
 
 ## 6. Act
 
-![Jupyter Logo](imagens/jupyter-logo.png)
+[![Jupyter Badge](https://camo.githubusercontent.com/c044ae9d0419850e7f2385c22ea5de56e101e6a616789bd35d2d8fa137a63642/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d2532334641304630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465)](https://jupyter.org/)
+
